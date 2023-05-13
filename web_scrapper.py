@@ -3,8 +3,9 @@ from bs4 import BeautifulSoup
 
 def get_price():
     origin_url="https://merolagani.com/CompanyDetail.aspx?symbol="
-    scripts_name=["sahas","dordi","hhl","jalpa"]
-    scripts_tol=[500,250,200,1900]
+    # Give the name of script you want to run below are given examples
+    scripts_name=["nabil","mbjc","hhl","ntc"]
+    scripts_tol=[500,250,200,700]
 
     for index,script in enumerate(scripts_name):
         target_url=origin_url+script
