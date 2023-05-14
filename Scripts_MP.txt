@@ -1,0 +1,222 @@
+MP of given list [Format - Sn. Script_Name - Market_Price || Given Tol || Remarks(Buy/Sell)]
+
+1. NABIL - RS 584.90 || Tol : 474 || Remarks : Dont Buy Now !
+2. NIMB - RS 179.20 || Tol : 470 || Remarks : Buy
+3. SCB - RS 524.00 || Tol : 100 || Remarks : Dont Buy Now !
+4. HBL - RS 218.00 || Tol : 447 || Remarks : Buy
+5. SBI - RS 322.00 || Tol : 192 || Remarks : Dont Buy Now !
+6. EBL - RS 523.00 || Tol : 428 || Remarks : Dont Buy Now !
+7. NICA - RS 699.00 || Tol : 153 || Remarks : Dont Buy Now !
+8. MBL - RS 226.00 || Tol : 249 || Remarks : Buy
+9. LBL - RS 174.20 || Tol : 141 || Remarks : Dont Buy Now !
+10. KBL - RS 163.60 || Tol : 354 || Remarks : Buy
+11. SBL - RS 246.00 || Tol : 432 || Remarks : Buy
+12. SHL - RS 260.00 || Tol : 467 || Remarks : Buy
+13. TRH - RS 499.90 || Tol : 177 || Remarks : Dont Buy Now !
+14. OHL - RS 557.90 || Tol : 354 || Remarks : Dont Buy Now !
+15. NHPC - RS 201.00 || Tol : 173 || Remarks : Dont Buy Now !
+16. BPCL - RS 308.20 || Tol : 466 || Remarks : Buy
+17. CHCL - RS 464.00 || Tol : 323 || Remarks : Dont Buy Now !
+18. STC - RS 3634.00 || Tol : 105 || Remarks : Dont Buy Now !
+19. BBC - RS 3070.00 || Tol : 350 || Remarks : Dont Buy Now !
+20. NUBL - RS 538.90 || Tol : 481 || Remarks : Dont Buy Now !
+21. CBBL - RS 816.00 || Tol : 206 || Remarks : Dont Buy Now !
+22. DDBL - RS 619.00 || Tol : 188 || Remarks : Dont Buy Now !
+23. SANIMA - RS 237.00 || Tol : 480 || Remarks : Buy
+24. NABBC - RS 374.00 || Tol : 500 || Remarks : Buy
+25. NICL - RS 524.90 || Tol : 152 || Remarks : Dont Buy Now !
+26. RBCL - RS 12450.00 || Tol : 108 || Remarks : Dont Buy Now !
+27. NLICL - RS 568.00 || Tol : 313 || Remarks : Dont Buy Now !
+28. HEI - RS 427.90 || Tol : 125 || Remarks : Dont Buy Now !
+29. UIC - RS 433.70 || Tol : 229 || Remarks : Dont Buy Now !
+30. SPIL - RS 567.60 || Tol : 420 || Remarks : Dont Buy Now !
+31. NIL - RS 724.00 || Tol : 491 || Remarks : Dont Buy Now !
+32. PRIN - RS 444.50 || Tol : 316 || Remarks : Dont Buy Now !
+33. NLIC - RS 656.00 || Tol : 117 || Remarks : Dont Buy Now !
+34. LICN - RS 1262.90 || Tol : 246 || Remarks : Dont Buy Now !
+35. SICL - RS 699.20 || Tol : 395 || Remarks : Dont Buy Now !
+36. NFS - RS 263.00 || Tol : 493 || Remarks : Buy
+37. BNL - RS 2222.20 || Tol : 383 || Remarks : Dont Buy Now !
+38. NLO - RS 255.90 || Tol : 482 || Remarks : Buy
+39. GUFL - RS 465.20 || Tol : 343 || Remarks : Dont Buy Now !
+40. CIT - RS 2090.00 || Tol : 408 || Remarks : Dont Buy Now !
+41. BNT - RS 11400.00 || Tol : 397 || Remarks : Dont Buy Now !
+42. UNL - RS 25000.00 || Tol : 245 || Remarks : Dont Buy Now !
+43. BFC - RS 294.00 || Tol : 409 || Remarks : Buy
+44. GFCL - RS 413.00 || Tol : 230 || Remarks : Dont Buy Now !
+45. HDL - RS 1837.00 || Tol : 302 || Remarks : Dont Buy Now !
+46. PFL - RS 336.30 || Tol : 267 || Remarks : Dont Buy Now !
+47. NMB - RS 236.80 || Tol : 478 || Remarks : Buy
+48. SIFC - RS 301.00 || Tol : 202 || Remarks : Dont Buy Now !
+49. CFCL - RS 286.00 || Tol : 240 || Remarks : Dont Buy Now !
+50. JFL - RS 339.00 || Tol : 140 || Remarks : Dont Buy Now !
+51. PRVU - RS 166.00 || Tol : 149 || Remarks : Dont Buy Now !
+52. SFCL - RS 255.00 || Tol : 314 || Remarks : Buy
+53. GMFIL - RS 291.00 || Tol : 107 || Remarks : Dont Buy Now !
+54. SWBBL - RS 702.00 || Tol : 337 || Remarks : Dont Buy Now !
+55. ICFC - RS 400.20 || Tol : 147 || Remarks : Dont Buy Now !
+56. EDBL - RS 277.50 || Tol : 133 || Remarks : Dont Buy Now !
+57. NTC - RS 773.00 || Tol : 489 || Remarks : Dont Buy Now !
+58. PROFL - RS 287.90 || Tol : 292 || Remarks : Buy
+59. GBIME - RS 184.00 || Tol : 216 || Remarks : Buy
+60. CZBIL - RS 170.80 || Tol : 457 || Remarks : Buy
+61. PCBL - RS 192.80 || Tol : 277 || Remarks : Buy
+62. LBBL - RS 323.00 || Tol : 312 || Remarks : Dont Buy Now !
+63. SRBL - RS 176.70 || Tol : 296 || Remarks : Buy
+64. AHPC - RS 269.90 || Tol : 148 || Remarks : Dont Buy Now !
+65. MDB - RS 359.00 || Tol : 299 || Remarks : Dont Buy Now !
+66. ALICL - RS 528.00 || Tol : 439 || Remarks : Dont Buy Now !
+67. NLBBL - RS 548.70 || Tol : 222 || Remarks : Dont Buy Now !
+68. ADBL - RS 227.00 || Tol : 182 || Remarks : Dont Buy Now !
+69. MLBL - RS 294.00 || Tol : 402 || Remarks : Buy
+70. SJLIC - RS 414.00 || Tol : 246 || Remarks : Dont Buy Now !
+71. GBBL - RS 342.00 || Tol : 101 || Remarks : Dont Buy Now !
+72. JBBL - RS 252.80 || Tol : 375 || Remarks : Buy
+73. KRBL - RS 252.00 || Tol : 202 || Remarks : Dont Buy Now !
+74. CORBL - RS 280.90 || Tol : 446 || Remarks : Buy
+75. KSBBL - RS 280.00 || Tol : 358 || Remarks : Buy
+76. MPFL - RS 295.00 || Tol : 330 || Remarks : Buy
+77. SADBL - RS 268.00 || Tol : 468 || Remarks : Buy
+78. SHINE - RS 314.70 || Tol : 439 || Remarks : Buy
+79. MNBBL - RS 383.50 || Tol : 470 || Remarks : Buy
+80. FMDBL - RS 510.20 || Tol : 397 || Remarks : Dont Buy Now !
+81. SMFDB - RS 809.80 || Tol : 193 || Remarks : Dont Buy Now !
+82. MFIL - RS 419.00 || Tol : 369 || Remarks : Dont Buy Now !
+83. NBL - RS 249.00 || Tol : 436 || Remarks : Buy
+84. SLBBL - RS 537.10 || Tol : 435 || Remarks : Dont Buy Now !
+85. NLG - RS 600.50 || Tol : 134 || Remarks : Dont Buy Now !
+86. SINDU - RS 236.00 || Tol : 374 || Remarks : Buy
+87. SKBBL - RS 827.00 || Tol : 435 || Remarks : Dont Buy Now !
+88. RMDC - RS 674.00 || Tol : 294 || Remarks : Dont Buy Now !
+89. GBLBS - RS 433.00 || Tol : 446 || Remarks : Buy
+90. RLFL - RS 278.00 || Tol : 152 || Remarks : Dont Buy Now !
+91. SHPC - RS 321.20 || Tol : 175 || Remarks : Dont Buy Now !
+92. NSLB - RS 535.20 || Tol : 496 || Remarks : Dont Buy Now !
+93. KMCDB - RS 565.00 || Tol : 244 || Remarks : Dont Buy Now !
+94. MLBBL - RS 727.00 || Tol : 401 || Remarks : Dont Buy Now !
+95. RIDI - RS 259.00 || Tol : 443 || Remarks : Buy
+96. LLBS - RS 664.00 || Tol : 112 || Remarks : Dont Buy Now !
+97. MMFDB - RS 560.20 || Tol : 117 || Remarks : Dont Buy Now !
+98. BARUN - RS 230.00 || Tol : 335 || Remarks : Buy
+99. VLBS - RS 566.00 || Tol : 437 || Remarks : Dont Buy Now !
+100. CLBSL - RS 535.00 || Tol : 188 || Remarks : Dont Buy Now !
+101. KLBSL - RS 550.00 || Tol : 298 || Remarks : Dont Buy Now !
+102. JSLBB - RS 880.00 || Tol : 312 || Remarks : Dont Buy Now !
+103. API - RS 222.20 || Tol : 440 || Remarks : Buy
+104. NMBMF - RS 490.00 || Tol : 154 || Remarks : Dont Buy Now !
+105. GILB - RS 721.10 || Tol : 370 || Remarks : Dont Buy Now !
+106. SWMF - RS 556.00 || Tol : 286 || Remarks : Dont Buy Now !
+107. MERO - RS 502.10 || Tol : 272 || Remarks : Dont Buy Now !
+108. HIDCL - RS 177.80 || Tol : 426 || Remarks : Buy
+109. NGPL - RS 233.90 || Tol : 465 || Remarks : Buy
+110. GRDBL - RS 240.00 || Tol : 114 || Remarks : Dont Buy Now !
+111. NMFBS - RS 1123.20 || Tol : 401 || Remarks : Dont Buy Now !
+112. RSDC - RS 471.00 || Tol : 123 || Remarks : Dont Buy Now !
+113. KKHC - RS 207.60 || Tol : 298 || Remarks : Buy
+114. DHPL - RS 198.90 || Tol : 459 || Remarks : Buy
+115. AKPL - RS 350.00 || Tol : 405 || Remarks : Buy
+116. FOWAD - RS 1091.20 || Tol : 405 || Remarks : Dont Buy Now !
+117. SPDL - RS 262.00 || Tol : 497 || Remarks : Buy
+118. UMHL - RS 220.90 || Tol : 411 || Remarks : Buy
+119. SMATA - RS 556.80 || Tol : 189 || Remarks : Dont Buy Now !
+120. CHL - RS 264.70 || Tol : 127 || Remarks : Dont Buy Now !
+121. HPPL - RS 263.50 || Tol : 492 || Remarks : Buy
+122. MSLB - RS 672.00 || Tol : 444 || Remarks : Dont Buy Now !
+123. NHDL - RS 365.00 || Tol : 124 || Remarks : Dont Buy Now !
+124. SMB - RS 833.00 || Tol : 108 || Remarks : Dont Buy Now !
+125. USLB - RS 691.00 || Tol : 139 || Remarks : Dont Buy Now !
+126. RADHI - RS 233.00 || Tol : 196 || Remarks : Dont Buy Now !
+127. WNLB - RS 779.00 || Tol : 404 || Remarks : Dont Buy Now !
+128. NADEP - RS 490.00 || Tol : 348 || Remarks : Dont Buy Now !
+129. PMHPL - RS 208.40 || Tol : 297 || Remarks : Buy
+130. KPCL - RS 357.00 || Tol : 232 || Remarks : Dont Buy Now !
+131. AKJCL - RS 198.00 || Tol : 459 || Remarks : Buy
+132. JOSHI - RS 254.30 || Tol : 165 || Remarks : Dont Buy Now !
+133. ACLBSL - RS 534.50 || Tol : 152 || Remarks : Dont Buy Now !
+134. UPPER - RS 400.00 || Tol : 175 || Remarks : Dont Buy Now !
+135. SLBSL - RS 751.50 || Tol : 138 || Remarks : Dont Buy Now !
+136. GHL - RS 215.00 || Tol : 100 || Remarks : Dont Buy Now !
+137. ALBSL - RS 670.00 || Tol : 160 || Remarks : Dont Buy Now !
+138. SHIVM - RS 393.10 || Tol : 419 || Remarks : Buy
+139. UPCL - RS 216.00 || Tol : 297 || Remarks : Buy
+140. MHNL - RS 264.40 || Tol : 250 || Remarks : Dont Buy Now !
+141. PPCL - RS 325.00 || Tol : 295 || Remarks : Dont Buy Now !
+142. GMFBS - RS 660.00 || Tol : 269 || Remarks : Dont Buy Now !
+143. HURJA - RS 230.00 || Tol : 278 || Remarks : Buy
+144. GLBSL - RS 698.90 || Tol : 262 || Remarks : Dont Buy Now !
+145. SMFBS - RS 902.80 || Tol : 420 || Remarks : Dont Buy Now !
+146. UNHPL - RS 198.90 || Tol : 296 || Remarks : Buy
+147. ILBS - RS 570.00 || Tol : 321 || Remarks : Dont Buy Now !
+148. RHPL - RS 270.10 || Tol : 145 || Remarks : Dont Buy Now !
+149. SJCL - RS 263.00 || Tol : 352 || Remarks : Buy
+150. SABSL - RS 590.80 || Tol : 411 || Remarks : Dont Buy Now !
+151. SAPDBL - RS 224.00 || Tol : 356 || Remarks : Buy
+152. HDHPC - RS 158.00 || Tol : 261 || Remarks : Buy
+153. NRIC - RS 660.00 || Tol : 357 || Remarks : Dont Buy Now !
+154. NICLBSL - RS 520.00 || Tol : 268 || Remarks : Dont Buy Now !
+155. AIL - RS 402.00 || Tol : 181 || Remarks : Dont Buy Now !
+156. SDLBSL - RS 600.10 || Tol : 298 || Remarks : Dont Buy Now !
+157. NRN - RS 436.90 || Tol : 401 || Remarks : Dont Buy Now !
+158. LEC - RS 244.50 || Tol : 387 || Remarks : Buy
+159. SSHL - RS 186.60 || Tol : 194 || Remarks : Buy
+160. SGIC - RS 429.00 || Tol : 235 || Remarks : Dont Buy Now !
+161. MEN - RS 727.00 || Tol : 205 || Remarks : Dont Buy Now !
+162. UMRH - RS 443.00 || Tol : 397 || Remarks : Dont Buy Now !
+163. PLI - RS 407.00 || Tol : 491 || Remarks : Buy
+164. CGH - RS 1015.00 || Tol : 174 || Remarks : Dont Buy Now !
+165. NIFRA - RS 202.10 || Tol : 401 || Remarks : Buy
+166. GLH - RS 253.00 || Tol : 482 || Remarks : Buy
+167. MLBSL - RS 1766.00 || Tol : 394 || Remarks : Dont Buy Now !
+168. SHEL - RS 280.00 || Tol : 200 || Remarks : Dont Buy Now !
+169. RURU - RS 725.00 || Tol : 248 || Remarks : Dont Buy Now !
+170. CHDC - RS 710.00 || Tol : 124 || Remarks : Dont Buy Now !
+171. JBLB - RS 1380.00 || Tol : 162 || Remarks : Dont Buy Now !
+172. MKLB - RS 668.50 || Tol : 486 || Remarks : Dont Buy Now !
+173. MKJC - RS 392.70 || Tol : 392 || Remarks : Dont Buy Now !
+174. MLBS - RS 694.00 || Tol : 490 || Remarks : Dont Buy Now !
+175. SAHAS - RS 478.00 || Tol : 490 || Remarks : Buy
+176. TPC - RS 371.30 || Tol : 285 || Remarks : Dont Buy Now !
+177. SPC - RS 391.30 || Tol : 386 || Remarks : Dont Buy Now !
+178. NYADI - RS 265.60 || Tol : 281 || Remarks : Buy
+179. MBJC - RS 275.50 || Tol : 287 || Remarks : Buy
+180. BNHC - RS 349.80 || Tol : 301 || Remarks : Dont Buy Now !
+181. ENL - RS 600.00 || Tol : 205 || Remarks : Dont Buy Now !
+182. RULB - RS 603.00 || Tol : 383 || Remarks : Dont Buy Now !
+183. JALPA - RS 1475.00 || Tol : 141 || Remarks : Dont Buy Now !
+184. NESDO - RS 1998.00 || Tol : 463 || Remarks : Dont Buy Now !
+185. GVL - RS 390.00 || Tol : 149 || Remarks : Dont Buy Now !
+186. BHL - RS 277.90 || Tol : 339 || Remarks : Buy
+187. ULBSL - RS 1240.00 || Tol : 116 || Remarks : Dont Buy Now !
+188. RFPL - RS 234.00 || Tol : 355 || Remarks : Buy
+189. DORDI - RS 251.10 || Tol : 288 || Remarks : Buy
+190. ADLB - RS 1230.00 || Tol : 447 || Remarks : Dont Buy Now !
+191. BHDC - RS 397.90 || Tol : 382 || Remarks : Dont Buy Now !
+192. HHL - RS 238.70 || Tol : 226 || Remarks : Dont Buy Now !
+193. UHEWA - RS 354.00 || Tol : 106 || Remarks : Dont Buy Now !
+194. SGHC - RS 272.00 || Tol : 441 || Remarks : Buy
+195. MHL - RS 323.00 || Tol : 327 || Remarks : Buy
+196. USHEC - RS 272.00 || Tol : 305 || Remarks : Buy
+197. RHGCL - RS 249.90 || Tol : 296 || Remarks : Buy
+198. AVYAN - RS 563.00 || Tol : 201 || Remarks : Dont Buy Now !
+199. SPHL - RS 360.00 || Tol : 359 || Remarks : Dont Buy Now !
+200. PPL - RS 254.50 || Tol : 335 || Remarks : Buy
+201. DLBS - RS 660.00 || Tol : 418 || Remarks : Dont Buy Now !
+202. SIKLES - RS 382.00 || Tol : 114 || Remarks : Dont Buy Now !
+203. KLBS - RS 841.00 || Tol : 379 || Remarks : Dont Buy Now !
+204. EHPL - RS 347.90 || Tol : 219 || Remarks : Dont Buy Now !
+205. SHLB - RS 1083.20 || Tol : 133 || Remarks : Dont Buy Now !
+206. PHCL - RS 300.00 || Tol : 421 || Remarks : Buy
+207. BHPL - RS 461.80 || Tol : 200 || Remarks : Dont Buy Now !
+208. UNLB - RS 1430.00 || Tol : 354 || Remarks : Dont Buy Now !
+209. SMHL - RS 380.00 || Tol : 448 || Remarks : Buy
+210. SPL - RS 518.00 || Tol : 449 || Remarks : Dont Buy Now !
+211. SMH - RS 545.00 || Tol : 500 || Remarks : Dont Buy Now !
+212. MKHC - RS 233.00 || Tol : 389 || Remarks : Buy
+213. AHL - RS 334.00 || Tol : 175 || Remarks : Dont Buy Now !
+214. KDL - RS 704.00 || Tol : 290 || Remarks : Dont Buy Now !
+215. TAMOR - RS 262.30 || Tol : 453 || Remarks : Buy
+216. MHCL - RS 210.90 || Tol : 192 || Remarks : Dont Buy Now !
+217. SMJC - RS 240.30 || Tol : 428 || Remarks : Buy
+218. ANLB - RS 727.10 || Tol : 445 || Remarks : Dont Buy Now !
+219. BPW - RS 262.20 || Tol : 129 || Remarks : Dont Buy Now !
+220. MAKAR - RS 238.70 || Tol : 449 || Remarks : Buy
